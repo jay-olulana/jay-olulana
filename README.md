@@ -15,12 +15,8 @@
 		<img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>&nbsp;&nbsp;
 	     	<img src="https://gpvc.arturio.dev/jay-olulana" />
+	<p align = "center">
+		<img src = "https://github-readme-stats.vercel.app/api?username=jay-olulana&show_icons=true&theme=radical&line_height=27">
+		<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jay-olulana&theme=radical">
+	</p>
 </p>
-
-<div>
-  <p align = "center">
-    <img height="175" src="https://github-readme-stats.vercel.app/api?username=jay-olulana&show_icons=true&locale=en&default&count_private=true&theme=radical" alt="jay-olulana" />
-    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-olulana&&theme=radical" alt="My most used languages for code on Github" />
-  </p>
-</div>
-
