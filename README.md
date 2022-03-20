@@ -2,7 +2,7 @@
 
 [![](https://enkahcw3aqjzlyp.m.pipedream.net/?key=gh-jayolulana&label=visitors&color=grey&style=flat)](https://github.com/jay-olulana)
 
-I am a Software developer and Mechanical Engineering student from Nigeria.
+I am a Data Engineer, from Nigeria.
 
 <div>
   <p>
