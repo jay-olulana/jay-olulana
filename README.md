@@ -18,5 +18,5 @@
 	<p align = "center">
 		<img src = "https://github-readme-stats.vercel.app/api?username=jay-olulana&count_private=true&show_icons=true&theme=radical&line_height=27">
 		<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jay-olulana&row=1&no-bg=true" alt="jay-olulana"/></a>
-	Just Do It
+	<Just Do It/>
 </p>
