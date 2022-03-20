@@ -17,6 +17,6 @@
 	     	<img src="https://gpvc.arturio.dev/jay-olulana" />
 	<p align = "center">
 		<img src = "https://github-readme-stats.vercel.app/api?username=jay-olulana&show_icons=true&theme=radical&line_height=27">
-		<img height="150" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jay-olulana&theme=radical">
+		<img height="2000" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jay-olulana&theme=radical">
 	</p>
 </p>
