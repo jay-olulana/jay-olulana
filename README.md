@@ -25,7 +25,8 @@
   <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jay-olulana&theme=blood-dark&background=000000" alt="jay-olulana" />
   </p>
-  <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jay-olulana&row=1&no-bg=true" alt="jay-olulana"/></a></p>
+	<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jay-olulana&row=1&no-bg=true" alt="jay-olulana"/></a></p>
+  
 </div>
 
 
