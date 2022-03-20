@@ -17,7 +17,7 @@
 	     	<img src="https://gpvc.arturio.dev/jay-olulana" />
 	<p align = "center">
 		<img src = "https://github-readme-stats.vercel.app/api?username=jay-olulana&show_icons=true&theme=radical&line_height=27">
-		<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cAtaman&row=1&no-bg=true" alt="cAtaman"/></a
+		<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cAtaman&row=1&no-bg=true" alt="cAtaman"/></a>
 		
 	</p>
 </p>
