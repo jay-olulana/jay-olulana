@@ -14,10 +14,8 @@
 	<a href="mailto:jayolulana@gmail.com" target="_blank">
 		<img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>&nbsp;&nbsp;
-	</p>
-	<p>
+	     	<img src="https://gpvc.arturio.dev/j22pregbaha" />
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jay-olulana&theme=blood-dark&background=000000" alt="jay-olulana"/>
- 	 </p>
 </p>
 
 <div>
