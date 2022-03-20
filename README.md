@@ -15,6 +15,9 @@
 		<img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>&nbsp;&nbsp;
 	</p>
+	<p>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jay-olulana&theme=blood-dark&background=000000" alt="jay-olulana"/>
+ 	 </p>
 </p>
 
 <div>
@@ -22,13 +25,4 @@
     <img height="175" align="center" src="https://github-readme-stats.vercel.app/api?username=jay-olulana&show_icons=true&locale=en&default&count_private=true&theme=radical" alt="jay-olulana" />
     <img height="175" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-olulana&layout=compact&count_private=true&theme=radical" alt="My most used languages for code on Github" />
   </p>
-  <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jay-olulana&theme=blood-dark&background=000000" alt="jay-olulana" />
-  </p>
-  <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jay-olulana&row=1&no-bg=true" alt="jay-olulana"/><</p>
-  
 </div>
-
-
-
-<!-- 📫 How to reach me: [Twitter](https://twitter.com/jay_olulana) * [LinkedIn](https://www.linkedin.com/in/joshua-olulana/) * [Email](mailto:jayolulana@gmail.com) -->
