@@ -21,7 +21,7 @@
   <p>
     <img height="175" align="center" src="https://github-readme-stats.vercel.app/api?username=jay-olulana&show_icons=true&locale=en&default&count_private=true&theme=radical" alt="jay-olulana" />
     <img height="175" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-olulana&layout=compact&count_private=true&theme=radical" alt="My most used languages for code on Github" />
-    <img width="2000" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jay-olulana&theme=blood-dark&background=000000" alt="jay-olulana"/>
+    <img width="1830" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jay-olulana&theme=blood-dark&background=000000" alt="jay-olulana"/>
   </p>
 </div>
 
