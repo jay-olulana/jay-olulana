@@ -1,4 +1,4 @@
-<h1 align='center'>Hi there 👋🏾. I am Joshua Olulana</h1>
+<h1 align='center'>Hi there 👋🏾. I am Joshua Olulana.</h1>
 <p align='center'>I am a Data Engineer. Focused on building scalable data solutions in the cloud.</p>
 
 <p align='center'>
