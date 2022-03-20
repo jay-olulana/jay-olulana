@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋 I'm [Joshua Olulana](https://www.linkedin.com/in/joshua-olulana/)   
 
-<!--
-**jay-olulana/jay-olulana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://enkahcw3aqjzlyp.m.pipedream.net/?key=gh-jayolulana&label=visitors&color=grey&style=flat)](https://github.com/jay-olulana)
 
-Here are some ideas to get you started:
+I am a Software developer and Mechanical Engineering student from Nigeria.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <p>
+    <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=jay-olulana&show_icons=true&locale=en&default&count_private=true&theme=react" alt="jay-olulana" />
+    <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-olulana&layout=compact&count_private=true&theme=react" alt="My most used languages for code on Github" />
+  </p>
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jay-olulana&theme=blood-dark&background=000000" alt="jay-olulana" />
+  </p>
+</div>
+
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jay-olulana&row=1&no-bg=true" alt="cAtaman"/></a></p>
+
+📫 How to reach me: [Twitter](https://twitter.com/jay_olulana) * [LinkedIn](https://www.linkedin.com/in/joshua-olulana/) * [Email](mailto:jayolulana@gmail.com)
