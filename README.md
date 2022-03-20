@@ -1,5 +1,5 @@
-<h1 align='center'>Hi there 👋🏾</h1>
-I am a Data Engineer, from Nigeria. Focused on building scalable data solutions.
+<h1 align='center'>Hi there 👋🏾. I am Joshua Olulana</h1>
+<p align='center'>I am a Data Engineer. Focused on building scalable data solutions</p>
 
 <p align='center'>
 	<!-- <a href="" target="_blank">
