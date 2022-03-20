@@ -1,8 +1,5 @@
-### Hi there 👋🏾️ I'm [Joshua Olulana](https://www.linkedin.com/in/joshua-olulana/)   
-
-
-I am a Data Engineer, from Nigeria. Focused on building scalable data solutions.
 <h1 align='center'>Hi there 👋🏾</h1>
+I am a Data Engineer, from Nigeria. Focused on building scalable data solutions.
 
 <p align='center'>
 	<!-- <a href="" target="_blank">
