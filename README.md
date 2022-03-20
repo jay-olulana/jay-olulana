@@ -7,7 +7,7 @@ I am a Data Engineer, from Nigeria. Focused on building scalable data solutions.
 <div>
   <p>
     <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=jay-olulana&show_icons=true&locale=en&default&count_private=true&theme=react" alt="jay-olulana" />
-    <img height="100" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-olulana&layout=compact&count_private=true&theme=react" alt="My most used languages for code on Github" />
+    <img height="100" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-olulana&layout=compact&count_private=true&theme=react" alt="My most used languages for code on Github" />
   </p>
   <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jay-olulana&theme=blood-dark&background=000000" alt="jay-olulana" />
